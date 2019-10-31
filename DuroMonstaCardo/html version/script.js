@@ -105,7 +105,7 @@ function action(img, img2) {
   img2.style.transition = "top 0ms ease-out 320ms";
   img2.style.top = "-450px";
 
-  location.href ='Connect.php';
+  //location.href ='Connect.php';
 }
 
 // Calculating the damage taken
