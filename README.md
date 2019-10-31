@@ -1,5 +1,7 @@
 # duro-monsta-cardo
-poor man cookie clicker with yugioh meme
+This website is a inspired by the [this moment from the japanese version of Yu-gi-oh](https://www.youtube.com/watch?v=ROCevLH6PGQ)
+
+When connected, the webpage shown is of a simple button in which when pressed a card is moved down, from being hidden from the top, and a sound file is played (caution: Might be very loud).
 
 There are two folders:
 
