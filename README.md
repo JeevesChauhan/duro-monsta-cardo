@@ -8,7 +8,7 @@ On load:
 
 On Button Click:
 ![drawn](https://github.com/JeevesChauhan/duro-monsta-cardo/blob/master/screenshots/drawn.PNG)
-With the php version, with the user of SQL and PHP the numbers are stored so everyone can see how many times the button has been clicked.
+With the php version, with the use of SQL and PHP the numbers are stored so everyone can see how many times the button has been clicked.
 
 
 
