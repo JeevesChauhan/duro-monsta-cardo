@@ -1,3 +1,6 @@
+> [!NOTE]
+> Hackothon from 2019. This project was my first experience using Javascript
+
 # duro-monsta-cardo
 This website is a inspired by the [this moment from the japanese version of Yu-gi-oh](https://www.youtube.com/watch?v=ROCevLH6PGQ)
 
